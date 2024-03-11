@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0002">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Moafee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0071">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Orangeworm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0131">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Tonto Team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0056">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>PROMETHIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0016">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT29</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0018">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>admin@338</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0100">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Inception</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0080">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Cobalt Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1004">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>LAPSUS$</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0140">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>LazyScripter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1002">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>BITTER</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0122">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Silent Librarian</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0050">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT32</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0045">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>menuPass</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0055">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>NEODYMIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0125">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>HAFNIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0077">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Leafminer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0126">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Higaisa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0063">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>BlackOasis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0046">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1012">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>CURIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0105">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>DarkVishnya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0021">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Molerats</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0114">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Chimera</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0103">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Mofang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1008">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>SideCopy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0036">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>GCMAN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0123">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Volatile Cedar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0037">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN6</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0089">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>The White Company</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0010">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Turla</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0143">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Aquatic Panda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0088">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>TEMP.Veles</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0124">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Windigo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0098">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>BlackTech</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0019">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Naikon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1003">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Ember Bear</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0059">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Magic Hound</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0047">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Gamaredon Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0028">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Threat Group-1314</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0020">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Equation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0023">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT16</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0024">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Putter Panda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0022">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1005">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>POLONIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0044">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Winnti Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0069">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>MuddyWater</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0038">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Stealth Falcon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0052">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>CopyKittens</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0009">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Deep Panda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0128">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>ZIRCONIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0117">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Fox Kitten</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0075">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Rancor</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0017">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>DragonOK</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0008">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Carbanak</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0001">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Axiom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0005">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT12</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0096">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT41</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0078">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Gorgon Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0090">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>WIRTE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0142">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Confucius</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0094">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Kimsuky</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0030">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Lotus Blossom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0108">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Blue Mockingbird</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0136">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>IndigoZebra</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0041">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Strider</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0026">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT18</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0133">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Nomadic Octopus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0035">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Dragonfly</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0134">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Transparent Tribe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0082">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT38</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0070">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Dark Caracal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0053">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0138">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Andariel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0054">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Sowbug</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0097">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Bouncing Golf</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0127">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>TA551</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0099">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT-C-36</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0129">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Mustang Panda</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0007">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT28</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1006">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Earth Lusca</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0092">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>TA505</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0079">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>DarkHydrus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0039">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Suckfly</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1007">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Aoqin Dragon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0093">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>GALLIUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0029">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Scarlet Mimic</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0060">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>BRONZE BUTLER</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0003">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Cleaver</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0091">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Silence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0095">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Machete</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0112">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Windshift</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0062">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>TA459</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0081">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Tropic Trooper</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1013">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Metador</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0119">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Indrik Spider</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0004">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Ke3chang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1000">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>ALLANITE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0027">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Threat Group-3390</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0064">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT33</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0120">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Evilnum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0049">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>OilRig</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0137">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Ferocious Kitten</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1009">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Moses Staff</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1014">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>LuminousMoth</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0040">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Patchwork</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0121">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Sidewinder</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0107">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Whitefly</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0043">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Group5</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0048">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>RTM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0012">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Darkhotel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0083">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>SilverTerrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0076">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Thrip</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0102">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Wizard Spider</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0106">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Rocke</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0034">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Sandworm Team</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0068">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>PLATINUM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0051">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0085">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0067">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT37</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0025">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT17</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0061">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>FIN8</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0013">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT30</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0011">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>PittyTiger</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0084">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Gallmaker</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0033">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Poseidon Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1011">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>EXOTIC LILY</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0066">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Elderwood</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G1001">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>HEXANE</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0006">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0065">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Leviathan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0032">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Lazarus Group</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0115">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>GOLD SOUTHFIELD</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0073">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT19</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0139">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>TeamTNT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0087">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>APT39</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0135">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>BackdoorDiplomacy</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/attack_groups/G0130">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Technique"/>
+    <rdfs:label>Ajax Security Team</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,6 @@
+ID,Name,Description,AttackSurface
+M001,SmartMeter_A,Advanced smart meter for residential use,"Network Interface, Data Processing"
+M002,SmartMeter_B,Commercial smart meter with enhanced features,"Network Interface, Data Processing, Remote Management"
+M003,AnalogMeter_A,Traditional analog meter for small businesses,Manual Reading
+M004,SmartMeter_C,IoT-enabled smart meter for industrial use,"Network Interface, Data Processing, Security Protocols"
+M005,AnalogMeter_B,Basic analog meter for residential use,Manual Reading

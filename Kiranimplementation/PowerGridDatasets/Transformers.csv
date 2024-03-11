@@ -1,0 +1,6 @@
+ID,Name,Description,AttackSurface
+T001,Transformer_A,High-capacity transformer for substation A,"Network Interface, Control System"
+T002,Transformer_B,Medium-capacity transformer for substation B,"Network Interface, Monitoring System"
+T003,Transformer_C,Low-capacity transformer for substation C,"Serial Interface, Control System"
+T004,Transformer_D,Large-capacity transformer for substation D,"Network Interface, Monitoring System, Serial Interface"
+T005,Transformer_E,Medium-capacity transformer for substation E,"Serial Interface, Control System"

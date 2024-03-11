@@ -1,0 +1,6 @@
+ID,Name,Description,Length
+L001,PowerLine_A,High-voltage transmission line for long-distance power transfer,50 km
+L002,PowerLine_B,Distribution line supplying power to residential areas,20 km
+L003,PowerLine_C,Underground power line for urban distribution,City A
+L004,PowerLine_D,Subsea power cable connecting two islands,100 km
+L005,PowerLine_E,Power line supporting renewable energy farms,30 km

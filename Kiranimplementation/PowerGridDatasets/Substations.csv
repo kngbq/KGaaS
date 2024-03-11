@@ -1,0 +1,6 @@
+ID,Name,Description,Location
+S001,Substation_A,Primary substation for residential area,City A
+S002,Substation_B,Industrial substation supporting manufacturing plants,City B
+S003,Substation_C,Substation for renewable energy sources,City C
+S004,Substation_D,Critical substation supplying power to a data center,City A
+S005,Substation_E,Substation serving a remote rural area,City D

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0006">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Honeybee</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0018">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0018</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0023">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Ghost</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0013">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Sharpshooter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0012">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation CuckooBees</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0024">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>SolarWinds Compromise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0001">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Frankenstein</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0002">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Night Dragon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0005">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Spalax</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0016">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Dust Storm</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0025">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>2016 Ukraine Electric Power Attack</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0010">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0010</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0015">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0015</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0009">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Oldsmar Treatment Plant Intrusion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0020">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Maroochy Water Breach</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0004">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>CostaRicto</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0022">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Dream Job</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0007">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>FunnyDream</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0014">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>Operation Wocao</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0021">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0021</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0017">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0017</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kngbq.org/CKG/campaigns/C0011">
+    <rdf:type rdf:resource="http://kngbq.org/CKG/#Campaigns"/>
+    <rdfs:label>C0011</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
